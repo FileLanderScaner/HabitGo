@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "473199008693",
+    "project_id": "filelanderscaner",
+    "storage_bucket": "filelanderscaner.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473199008693:android:7a3b49ac32b8509bb297fc",
+        "android_client_info": {
+          "package_name": "com.example.filescaner"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrDYjCyE3LfKwGULxK_0uDBATr7bhhNiA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
